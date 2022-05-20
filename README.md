@@ -1,3 +1,7 @@
+# hosted
+
+this app is hosted using github pages at https://jayalath-jknr.github.io/expense-traker-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
